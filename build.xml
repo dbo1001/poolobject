@@ -7,7 +7,6 @@
   <property name="test.build.dir" value="build/test"/>
   <property name="test.src.dir" value="src/test"/>
   <property name="dist" location="dist"/>
-  <property name="sonar.java.binaries" value="lib"/>
 
   <path id="classpath.test">
     <pathelement location="lib/junit-4.12.jar"/>
